@@ -12,8 +12,8 @@ reference_images = [
 ]
 
 reference_names = [
-    "Dhaarini K N Hathwar",
-    "chiku ",
+    "Person 1",
+    "Person 2",
     "Person 3"
 ]
 
