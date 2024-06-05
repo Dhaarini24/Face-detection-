@@ -6,8 +6,8 @@ from deepface import DeepFace
 
 # Load reference images and names
 reference_images = [
-    cv.imread("Dhaarini.jpg"),
-    cv.imread("srinidhi.jpg"),
+    cv.imread("person3.jpg"),
+    cv.imread("person2.jpg"),
     cv.imread("Person3.jpg")
 ]
 
